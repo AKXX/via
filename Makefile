@@ -1,4 +1,4 @@
-PREFIX=/usr/local
+PREFIX=/usr
 
 install:
 	mkdir -p $(DESTDIR)$(PREFIX)/bin
